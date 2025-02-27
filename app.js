@@ -29,9 +29,3 @@ const listaAmigos = []
              listaAmigos.length = 0
          }     
 }
-
-function reiniciarSorteo(){
-    ulResultado.innerHTML = "";
-    ulListaAmigos.innerHTML = "";
-    listaAmigos.length = 0;
-}
